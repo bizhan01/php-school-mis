@@ -1,0 +1,53 @@
+/*header SCC codes*/
+header{
+  height: 100px;
+  background-color: black;
+}
+
+header h2{
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  font-family: Algerian;
+  font-size: 60px;
+}
+
+/*nav CSS Codes*/
+nav{
+  height: 50px;
+  background-color: gray !important;
+  padding-top: 10px;
+}
+
+nav ul a li{
+  display: inline;
+  padding-right: 50px;
+  font-size: 20px;
+  color: white;
+}
+
+/*Aside CSS Codes*/
+aside{
+  background-color: #04efa3;
+  float: left;
+}
+
+aside ul a li{
+  font-size: 20px;
+  color: white;
+  line-height: 30px;
+  list-style-type: none;
+}
+
+/*section CSS Codes*/
+section{
+  background-color: white;
+  float: right;
+}
+
+/*footer CSS Codes*/
+footer{
+  height: 70px;
+  background-color: #434c40;
+  float: left;
+}
